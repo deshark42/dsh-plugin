@@ -1,4 +1,6 @@
 {
   "version": 1,
-  "files": {}
+  "files": {
+    "architecture/2026-11-25-optmem-embedded-core.md": "sha256:c4f15c96583a309ab26b77b3d88cc19b383405bdca29f078ff92ebf8631ce042"
+  }
 }

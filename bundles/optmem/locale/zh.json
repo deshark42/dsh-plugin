@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "OptMem 工作区记忆",
+    "description": "在聊天中查找长期记忆，或确认原文和工作区后保存。同一 Git 仓库的 worktree 共享；非 Git 目录也能使用。同一 DSH home 内不按 profile 分库。不会自动加载记忆或合并旧库；停用后保留已保存的记忆。"
+  }
+}

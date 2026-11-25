@@ -1,0 +1,4 @@
+- insert:
+    - id: optmem
+      name: '@local/dsh-optmem'
+      config: {}

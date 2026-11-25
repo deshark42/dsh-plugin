@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "OptMem workspace memory",
+    "description": "Search workspace memories or approve the exact note and destination before saving. Worktrees of the same Git repository share notes, and non-Git directories work too. Profiles within the same DSH home share by workspace. Memories are not loaded automatically, old stores are not merged, and disabling the plugin keeps saved notes."
+  }
+}
